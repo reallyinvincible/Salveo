@@ -10,7 +10,7 @@ Saving lives using Machine Learning
 
 ## Screenshots
 
-![1](https://user-images.githubusercontent.com/30470730/74449614-cf6e4400-4ea2-11ea-8c06-25601be5ab0a.png | height = 100)
+![1](https://user-images.githubusercontent.com/30470730/74449614-cf6e4400-4ea2-11ea-8c06-25601be5ab0a.png)
 
 ![2](https://user-images.githubusercontent.com/30470730/74449617-d006da80-4ea2-11ea-862a-755b7e5d88e4.png)
 
